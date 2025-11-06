@@ -4,7 +4,7 @@
 [![Watch the video](https://img.youtube.com/vi/VZDHaGla188/maxresdefault.jpg)](https://youtu.be/VZDHaGla188)
 
 
-# 🎯 My AI | ML | DL | CV | NLP Projects Collection
+# 🎯 AI | ML | DL | CV | NLP Projects Collection
 
 This list is continuously updated.  
 ✅ You can take pull requests and contribute.  
