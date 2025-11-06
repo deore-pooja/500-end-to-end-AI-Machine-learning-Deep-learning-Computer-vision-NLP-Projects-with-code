@@ -15,16 +15,15 @@ This list is continuously updated.
 
 | Sr No | Project Name | Link |
 |:------|:--------------|:-----|
-| 1 | 365 Days of Data Science & AI Challenge | [🔗 Open Folder](YOUR_DRIVE_LINK_1) |
-| 2 | Python Basic to Advanced Projects (365 Days) | [🔗 Open Folder](YOUR_DRIVE_LINK_2) |
+| 1 | Data Science Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_1) |
+| 2 | Python Basic to Advanced Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_2) |
 | 3 | Machine Learning Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_3) |
 | 4 | Deep Learning Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_4) |
 | 5 | Computer Vision Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_5) |
 | 6 | Natural Language Processing (NLP) Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_6) |
 | 7 | AI + Automation Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_7) |
-| 8 | Time Series & Forecasting Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_8) |
-| 9 | Data Science Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_9) |
-| 10 | End-to-End Industry Projects | [🔗 Open Folder](YOUR_DRIVE_LINK_10) |
+| 8 | AI Projects| [🔗 Open Folder](YOUR_DRIVE_LINK_8) |
+
 
 ---
 
@@ -32,14 +31,6 @@ This list is continuously updated.
 This repository contains all my personal and professional projects across **Data Science, Machine Learning, Deep Learning, NLP, and Computer Vision** — with complete code, explanations, and datasets (where possible).  
 
 Each project is organized neatly in its own folder or Google Drive link for easy access.
-
----
-
-### 🚀 Contribution  
-Feel free to contribute!  
-- Fork this repo  
-- Add your own awesome projects  
-- Submit a pull request 🚀  
 
 ---
 
